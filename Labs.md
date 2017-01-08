@@ -113,6 +113,8 @@ Legenda:
 1. [Wojciech Łojkowski i Kacper Narożnik](https://github.com/knaroznik/Ruby_GameOfLife)
 2. [Jakub Łąkowski](https://github.com/kubalakowski/projekt_ruby)
 3. [Kamil Lubiejewski, Aliaksandr Novik i Jacek Sasin](https://github.com/jsasin/Tar_egzamin)
+4. [Adam Makiewicz, Marcin Lis, Paweł Luszuk](https://github.com/marcinlis0/ruby-app)
+
 
 ### Grupa 2
 
